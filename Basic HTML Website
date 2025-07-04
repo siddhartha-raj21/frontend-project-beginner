@@ -1,0 +1,12 @@
+#Basic Html Website
+
+#Goal
+
+Creating a website using HTML i.e. different sections of a website like header, footer, navigation, main content etc.
+
+#Requirements
+
+Pages: Home, Articles, Projects, Contact
+Navigation bar at top of bage, having links of each page
+Structured in a way that makes adding styles easy
+Add SEO meta tags
